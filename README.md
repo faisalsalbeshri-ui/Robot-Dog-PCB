@@ -112,7 +112,7 @@ The schematic was created first to define the electrical connections between:
 
 ### Schematic
 
-![Robot Dog PCB Schematic](Robot-Dog-PCB-Schematic.png)
+![Robot Dog PCB Schematic](Robot-Dog-PCB-Schematic.png.png)
 
 ---
 
@@ -131,7 +131,7 @@ This allows traces to cross safely using different PCB layers while maintaining 
 
 ### 2D PCB Layout
 
-![Robot Dog PCB 2D Layout](Robot-Dog-PCB-2D-Layout.png)
+![Robot Dog PCB 2D Layout](Robot-Dog-PCB-2D-Layout.png.png)
 
 ---
 
@@ -139,11 +139,11 @@ This allows traces to cross safely using different PCB layers while maintaining 
 
 The final PCB was also inspected using the EasyEDA 3D Viewer.
 
-The 3D model provides a realistic preview of the final board, including the Arduino Nano, battery terminal, sensor connector, and servo connectors.
+The 3D model provides a realistic preview of the final board, including the Arduino Nano, battery terminal, ultrasonic sensor connector, and servo connectors.
 
 ### Final 3D Design
 
-![Robot Dog PCB 3D View](Robot-Dog-PCB-3D-View.png)
+![Robot Dog PCB 3D View](Robot-Dog-PCB-3D-View.png.png)
 
 ---
 
@@ -224,9 +224,9 @@ GitHub is used to document and share the final project files and design results.
 Robot-Dog-PCB/
 │
 ├── README.md
-├── Robot-Dog-PCB-Schematic.png
-├── Robot-Dog-PCB-2D-Layout.png
-└── Robot-Dog-PCB-3D-View.png
+├── Robot-Dog-PCB-Schematic.png.png
+├── Robot-Dog-PCB-2D-Layout.png.png
+└── Robot-Dog-PCB-3D-View.png.png
 ```
 
 ---
